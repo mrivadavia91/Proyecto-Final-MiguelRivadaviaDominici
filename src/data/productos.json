@@ -1,0 +1,27 @@
+[
+{
+"id": 1,
+"title": "Arito",
+"category": "arito",
+"description": "Arito de 100% acero quirurgico",
+"imagen": "../assets/arito.webp",
+"precio": 250
+},
+{
+"id": 2,
+"title": "Anillo",
+"category": "anillo",
+"description": "Anillo de 100% acero quirurgico",
+"imagen": "../assets/anillo.webp",
+"precio": 250
+},
+{
+"id": 3,
+"title": "Pulsera",
+"category": "pulsera",
+"description": "pulsera de mostacillas",
+"imagen": "../assets/pulsera.webp",
+"precio": 250
+}
+
+]
